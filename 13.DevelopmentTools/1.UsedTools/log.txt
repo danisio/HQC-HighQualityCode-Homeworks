@@ -1,0 +1,4 @@
+2015-08-15 14:39:25,632 [1] INFO  Log4NetDemo.Log4NetDemo [(null)] - Info message
+2015-08-15 14:39:25,651 [1] ERROR Log4NetDemo.Log4NetDemo [(null)] - Error message
+System.Exception: Exception!
+   at Log4NetDemo.Log4NetDemo.Main() in d:\TELERIK\Homeworks\08.HQC\13.DevelopmentTools\1.UsedTools\Log4NetDemo\Log4NetDemo\Log4NetDemo.cs:line 16
